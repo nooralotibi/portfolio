@@ -1,4 +1,7 @@
 # portfolio
-<img width="887" alt="Screenshot 1446-01-26 at 9 57 14 PM" src="https://github.com/user-attachments/assets/900edd60-7530-4dd5-8f28-51c7280cad75">
-<img width="888" alt="Screenshot 1446-01-26 at 9 56 58 PM" src="https://github.com/user-attachments/assets/8fa93bed-428d-4219-82f2-b6ea0d1e88df">
-<img width="888" alt="Screenshot 1446-01-26 at 9 56 41 PM" src="https://github.com/user-attachments/assets/d1220c3f-f689-4d60-a2cd-0be654271fb5">
+<img width="872" alt="Screenshot 1446-01-26 at 9 59 10 PM" src="https://github.com/user-attachments/assets/80e0899c-1128-4cd6-85f5-e29ecd9c60f0">
+<img width="879" alt="Screenshot 1446-01-26 at 9 58 58 PM" src="https://github.com/user-attachments/assets/abb2c7e7-e49c-41a2-8fe1-ddbd1f7b12b5">
+<img width="867" alt="Screenshot 1446-01-26 at 9 59 35 PM" src="https://github.com/user-attachments/assets/5c643001-cf56-4c7c-98e2-e0ec73521785">
+
+
+
